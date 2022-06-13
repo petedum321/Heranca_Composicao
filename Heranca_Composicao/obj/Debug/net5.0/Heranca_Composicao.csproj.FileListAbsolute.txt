@@ -1,0 +1,16 @@
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\Heranca_Composicao.exe
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\Heranca_Composicao.deps.json
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\Heranca_Composicao.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\Heranca_Composicao.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\Heranca_Composicao.dll
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\ref\Heranca_Composicao.dll
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\bin\Debug\net5.0\Heranca_Composicao.pdb
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.csproj.AssemblyReference.cache
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.dll
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\ref\Heranca_Composicao.dll
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.pdb
+C:\Users\015238631\Documents\Projetos.net\Heranca_Composicao\Heranca_Composicao\obj\Debug\net5.0\Heranca_Composicao.genruntimeconfig.cache
